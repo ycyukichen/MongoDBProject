@@ -17,7 +17,7 @@ setup(
     name="MongoDBProject",
     version="0.1.0",
     author="Yu-Yu",
-    author_email="ycyukichen@gmail.com",
+    author_email="yc0688a@american.edu",
     long_description="MongoDB Connect related operations",
     url=f'https://github.com/ycyukichen/MongoDBProject.git',
     # install_requires=get_requirements("requirements.txt"),

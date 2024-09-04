@@ -3,7 +3,7 @@ import os
 import pandas as pd
 import pymongo
 import json
-from ensureconda import ensure_annotations
+from ensure import ensure_annotations
 from pymongo.mongo_client import MongoClient
 
 
