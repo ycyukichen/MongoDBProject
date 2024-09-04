@@ -3,7 +3,7 @@ pymongo[srv]
 dnspython
 pandas
 numpy
-ensureconda
+ensure
 pytest
 
 
